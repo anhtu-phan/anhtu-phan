@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anh Tu Phan
-- I am a Co-Founder, and CTO of [Body.Scratch](https://www.bodyscratch.academy/)
+- I am a Co-Founder, and CTO of [Body.Scratch](https://www.bodyscratch.academy/) - an immersive game that makes youngsters dance to learn programming in a fulfilling way.
 - I’m interested in Machine Learning, especially Deep Learning applications
 - I graduated Master's Degree in Computer Science at the University of Trento
 <!-- - 💞️ I’m looking to collaborate on ... -->
